@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.86a0d31d.css",
-    "main.js": "/static/js/main.3d3f2b00.js",
+    "main.js": "/static/js/main.91dae0da.js",
     "static/media/nfts-logo.png": "/static/media/nfts-logo.70fffb85ee5ed032d1c4.png",
     "static/media/diamond.svg": "/static/media/diamond.b5da2a9cd1c23084303c3799dff93ec4.svg",
     "static/media/thlogo.svg": "/static/media/thlogo.f67a1a2b2a0b9d59c260d886d98439e2.svg",
@@ -12,10 +12,10 @@
     "static/media/arrow.svg": "/static/media/arrow.50da144f7b964a5d047724853fdd2906.svg",
     "static/media/spinner.svg": "/static/media/spinner.1138205115439c165f1e99b4e21985e8.svg",
     "main.86a0d31d.css.map": "/static/css/main.86a0d31d.css.map",
-    "main.3d3f2b00.js.map": "/static/js/main.3d3f2b00.js.map"
+    "main.91dae0da.js.map": "/static/js/main.91dae0da.js.map"
   },
   "entrypoints": [
     "static/css/main.86a0d31d.css",
-    "static/js/main.3d3f2b00.js"
+    "static/js/main.91dae0da.js"
   ]
 }
